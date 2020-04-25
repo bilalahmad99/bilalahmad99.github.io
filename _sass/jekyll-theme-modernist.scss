@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  padding:30px 0;
+  padding:50px 0;
   margin:0;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
@@ -18,7 +18,7 @@ body {
 }
 
 .wrapper {
-  width:900px;
+  width:1200px;
   margin:0 auto;
   background:#DEDEDE;
   border-radius: 8px;
@@ -71,7 +71,6 @@ header {
     color:#1a2127;
     width:300px;
     font-size:13px;
-    padding-left: 300px;
 
     &.view {
       display:none;
