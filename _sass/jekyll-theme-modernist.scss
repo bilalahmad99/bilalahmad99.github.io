@@ -18,7 +18,7 @@ body {
 }
 
 .wrapper {
-  width:740px;
+  width:900px;
   margin:0 auto;
   background:#DEDEDE;
   border-radius: 8px;
@@ -46,7 +46,7 @@ strong {
 
 header {
   border-radius: 8px 8px 0 0;
-  background:rgb(102, 203, 246);
+  background:#c8d9e0;
   background: linear_gradient(#DDFBFC, #C6EAFA);
   position:relative;
   padding:15px 20px;
@@ -55,6 +55,7 @@ header {
   h1 {
     margin:0;
     padding:0;
+    text-align: center;
     font-size:24px;
     line-height:1.2;
     color:#069;
@@ -67,9 +68,10 @@ header {
 
   p {
     margin:0;
-    color:#61778B;
+    color:#1a2127;
     width:300px;
     font-size:13px;
+    text-align: center;
 
     &.view {
       display:none;
@@ -302,6 +304,7 @@ footer {
     p {
       float:none;
       margin:0;
+      text-align: center;
     }
 
     p + p {
