@@ -71,7 +71,7 @@ header {
     color:#1a2127;
     width:300px;
     font-size:13px;
-    text-align: center;
+    padding-left: 300px;
 
     &.view {
       display:none;
@@ -277,7 +277,8 @@ footer {
   }
 
   p {
-    float:left;
+    float:none;
+    text-align: center;
   }
 
   p + p {
@@ -304,7 +305,6 @@ footer {
     p {
       float:none;
       margin:0;
-      text-align: center;
     }
 
     p + p {
