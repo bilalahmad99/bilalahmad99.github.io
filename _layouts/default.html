@@ -17,9 +17,9 @@
   <body>
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+        <h1 style="text-align: center;">{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <p style="text-align: center;">{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
       </header>
       <section>
@@ -29,7 +29,7 @@
       </section>
     </div>
     <footer>
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <p style="text-align: center;">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
     </footer>
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
   </body>

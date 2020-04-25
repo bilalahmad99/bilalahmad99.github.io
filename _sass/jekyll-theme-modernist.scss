@@ -8,7 +8,7 @@ html {
 }
 
 body {
-  padding:50px 0;
+  padding:30px 0;
   margin:0;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
@@ -30,7 +30,7 @@ header, section, footer {
 }
 
 a {
-  color:rgb(120, 153, 0);
+  color:rgb(0, 105, 153);
   text-decoration:none;
 }
 
@@ -46,7 +46,7 @@ strong {
 
 header {
   border-radius: 8px 8px 0 0;
-  background:#C6EAFA;
+  background:rgb(102, 203, 246);
   background: linear_gradient(#DDFBFC, #C6EAFA);
   position:relative;
   padding:15px 20px;
