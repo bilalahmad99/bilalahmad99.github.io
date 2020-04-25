@@ -129,18 +129,18 @@ header {
     }
 
     li + li {
-      width:78px;
+      width:180px;
       border-left:1px solid #8BBEF3;
     }
 
     li + li + li {
       border-right:none;
-      width:79px;
+      width:180px;
     }
 
     a {
       line-height:1;
-      font-size:11px;
+      font-size:22px;
       color:#fff;
       color:rgba(#fff, 0.8);
       display:block;
