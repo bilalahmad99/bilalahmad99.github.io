@@ -2,64 +2,20 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Hello There &#128075;
 
-[Link to another page](./page.html).
+My name is Bilal Ahmad. I am using this space to write down my thoughts and learnings; mostly related to technology. Writing usually helps me structure my thoughts and reflect on them.
 
-There should be whitespace between paragraphs.
+Some topics might interest you also. Check out the archive section where i have tried to label articles with sub-topics or subjects that are discussed in it.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Ofcourse needless to say these are all my personal point of views and are not associated with any organization which i work for or have worked in the past.
 
 
-### Definition lists can be used with HTML syntax.
+## Latest thoughts
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+### Everyone needs to vent sometimes
+
+I recently noticed in my organisation increase in a bit of annoyance or bitterness. For example some passive-agressive Q&As during all-hands or other meetings, a feeling of distress and uneasiness during regular standups or 1x1s. I noticed a similar behaviour in myself also. So one morning after an uneasy standup meeting I thought to myself, lets figure out the root cause of this persistent feeling all around.... [Continue Reading](./pages/everyone_needs_to_vent.html)
+
 

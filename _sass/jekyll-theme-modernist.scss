@@ -49,28 +49,27 @@ header {
   background:#c8d9e0;
   background: linear_gradient(#DDFBFC, #C6EAFA);
   position:relative;
-  padding:40px 20px;
+  padding:15px 20px;
   border-bottom:1px solid #B2D2E1;
 
   h1 {
     margin:0;
     padding:0;
-    text-align: center;
-    font-size:24px;
+    font-size:42px;
     line-height:1.2;
     color:#069;
     text-shadow:rgba(#fff, 0.9) 0 1px 0;
   }
 
   &.without-description h1 {
-    margin:10px 0;
+    margin:4px 0;
   }
 
   p {
     margin:0;
     color:#1a2127;
-    width:300px;
-    font-size:13px;
+    width:800px;
+    font-size:16px;
 
     &.view {
       display:none;
@@ -94,8 +93,8 @@ header {
     list-style:none;
     position:absolute;
     z-index:1;
-    right:330px;
-    top:20px;
+    right:20px;
+    top:36px;
     height:38px;
     padding:1px 0;
     background:#6b94bd;
@@ -118,7 +117,7 @@ header {
     }
 
     li {
-      width:180px;
+      width:99px;
       float:left;
       border-right:1px solid #3A7CBE;
       height:38px;
@@ -129,18 +128,18 @@ header {
     }
 
     li + li {
-      width:180px;
+      width:99px;
       border-left:1px solid #8BBEF3;
     }
 
     li + li + li {
       border-right:none;
-      width:180px;
+      width:99px;
     }
 
     a {
       line-height:1;
-      font-size:22px;
+      font-size:19px;
       color:#fff;
       color:rgba(#fff, 0.8);
       display:block;
@@ -162,7 +161,7 @@ header {
 
 section {
   padding:15px 20px;
-  font-size:15px;
+  font-size:20px;
   border-top:1px solid #fff;
   background: linear_gradient(#fafafa, #DEDEDE 700px);
   border-radius: 0 0 8px 8px;
