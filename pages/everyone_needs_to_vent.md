@@ -8,11 +8,13 @@ I recently noticed in my organisation increase in a bit of annoyance or bitterne
 
 My first thought went towards the current scenario i.e This might be because of the crisis we are in. Obviouly Covid has hit everyone in one way or another. It has already affected everyone and we have no idea how much it will keep affecting. The stress and anxiety levels in almost every individual have risen. But could there be something else.
 
-Apart from the above factor of global pandemic and its effects, there is another thing which plays a major role I think in this behaviour among people in the company. Every human being has some sort of problems in his personal life at some stage or another. These problems pre-occupy the mind when we work on our daily tasks in the company. Our brains as complex and beautiful as they are still cannot keep too many items or TODOs in thier storage. So when the limited storage starts to get clutter up, we tend to become agitated about it. There has to be a release point where we can just talk about those small things, maybe in the form of vent or something else, and just get our minds uncluttered.
+Apart from the above factor of global pandemic and its effects, there is another thing which plays a major role I think in this behaviour among people in the company. Every human being has some sort of problems in his personal life at some stage or another. These problems pre-occupy the mind when we work on our daily tasks in the company. Our brains as complex and beautiful as they are still cannot keep too many items or TODOs in thier storage. So when the limited storage starts to get clutter up, we tend to become agitated about it. There has to be a release point where we can just talk about those small annoying sometimes meaningless things, maybe in the form of vent or something else, and just get our minds uncluttered.
 
 Organizations need to do a good job in providing opportunities to the employees to vent out. 1x1s which focus more on listening rather than problem solving, a slack channel or a whatsapp group where employees can just vent, or some activity around it like a meetup etc.
 
-Now the venting out may not solve the underlying issue but it does feel better after it.
+One thing to note here is that this behaviour that comes out of the negative feelings inside can have other major underlying reasons also. For example a broken process in the software development cycle which cause irritation for the engineers and happensor has happened multiple times. Now these sort of things need to be addreessed in a prompt and effective way, different than some other smaller issues which are sometimes meaningless and does not necessarily requires a sophisticated solution.
+
+For these smaller issues venting out is good. Although it may not solve the issue itself but it does feel better after it. And when you talk about something out loud sometimes it gives you a counter perspective also that things you discussed about might not be worthy of putting so much attention into, so you tend to release it from your mind and feel light.
 
 
 [back](../)
