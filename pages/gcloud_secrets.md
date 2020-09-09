@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Gcloud Secret Manager
+## Gcloud Secret Manager for accessing environment variables in application
+
 
 So finally Gcloud launched its own secret manager as a service. I got to know from Seth Vargo's [tweet](https://twitter.com/sethvargo/status/1220035296018018310), who btw, if you don't follow, has given some great talks around DevOps and generally on technology.
 Before this, gcloud did not have anything around this to compete with [AWS Secret manager](https://aws.amazon.com/secrets-manager/) and [Hashicorp Vault](https://www.vaultproject.io/). Ofcourse you could use both of these and integrate with your gcloud resources. But after this, the integration is seemless.

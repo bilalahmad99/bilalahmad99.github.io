@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Local k8s development setup with Skaffold
+## Local k8s setup with Skaffold for development environment
 
 When you want to deploy or test your application on kubernetes setup before committing, which is always a good idea if your production environment is running in Kubernetes you would like to test the code in as similar environment to production as possible, here are thing you would require to do:
 
