@@ -40,9 +40,9 @@ build:
 ![automated-workflow](../assets/img/annotated-workflow.png)
 
 
-#### Other fancy things
+#### Other fancy things &#128526;
 * You can set a schedule to run the worflow jobs also rather than triggering on an event like pull request or push to a branch.
-* You can choose two types of runners on which the job will bee executed; a github-hosted runner (ubuntu, windows, macOS and a buch of other options are available on github side) and a self-hosted runner like [here](https://docs.github.com/en/actions/hosting-your-own-runners/using-self-hosted-runners-in-a-workflow).
+* You can choose two types of runners on which the job will bee executed; a github-hosted runner (ubuntu, windows, macOS and a bunch of other options are available on github side) and a self-hosted runner like [here](https://docs.github.com/en/actions/hosting-your-own-runners/using-self-hosted-runners-in-a-workflow).
 * Different actions can be used by the job or inside the job like in the example above im using checkout@v2 which checks out the repository and is basic. But there are other options available [here](https://github.com/actions). e.g. Docker container actions, javaScript actions, composite run steps actions etc
 
 

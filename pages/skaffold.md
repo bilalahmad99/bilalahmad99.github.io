@@ -86,7 +86,7 @@ spec:
 
 #### Run skaffold dev
 
-`skaffold dev` command will take Dockerfile at the root of your repository to create the image, you can also configure it to take from any other directory or take any other file like cloudbuild etc. [Here](https://skaffold.dev/docs/references/yaml/) is a useful refernce to all thing you can configure inside the skaffold.yaml file.
+`skaffold dev` command will take Dockerfile at the root of your repository to create the image, you can also configure it to take from any other directory or take any other file like cloudbuild etc. [Here](https://skaffold.dev/docs/references/yaml/) is a useful reference to all thing you can configure inside the skaffold.yaml file.
 
 
 #### Other cool things
@@ -130,3 +130,6 @@ deploying artifacts with
 * kubectl
 * helm
 * kustomize
+
+
+[back](../)

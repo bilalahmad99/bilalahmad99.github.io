@@ -7,13 +7,13 @@ layout: default
 
 #### The problem
 
-We were using Nginx (free version) as a reverse proxy in front of AWS Elastic Load Balancer to proxy all requests to the servers behind our load balancer. Now with ELB, you are supposed to use the CNAME record of it since the IPs of ELBs can and do keep changing. Usually what happens on AWS side is if your ELB starts to get traffic increase, AWS changes the machine to add a heavy beefy machine behind the scene which can cause IPs to change and thier can be other reasons also like maintenance etc.
+We were using Nginx (free version) as a reverse proxy in front of AWS Elastic Load Balancer to proxy all requests to the servers behind our load balancer. Now with ELB, you are supposed to use the CNAME record of it since the IPs of ELBs can and do keep changing. Usually what happens on AWS side is if your ELB starts to get traffic increase, AWS changes the machine to add a heavy beefy machine behind the scene which can cause IPs to change and their can be other reasons also like maintenance etc.
 Anyways Nginx resolves the address defined in the proxy_pass directive just once when it starts up or reloaded. For the rest of the times it keeps using the local cache. This caused the problem for us as after some time or days the IP changed and we started getting `Error: upstream timed out`.
 
 
 #### The solution
 
-Now a very easy solution is to get the NGINX plus version which is ofcourse a paid one and comes with the abililty to dynamically resolve the IPs.
+Now a very easy solution is to get the NGINX plus version which is ofcourse a paid one and comes with the ability to dynamically resolve the IPs.
 
 But we like to be extremely cost effective found a way to make it work with the free vanilla nginx as well.
 
@@ -31,4 +31,6 @@ location / {
 ```
 
 
-Cheers! 
+Cheers! &#129299;
+
+[back](../)

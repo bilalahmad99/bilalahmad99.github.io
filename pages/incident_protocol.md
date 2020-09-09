@@ -8,7 +8,7 @@ Security breaches in the tech world are increasing at an alarming rate. If it ha
 
 ![hope for the best, prepare for the worst](../assets/img/hope_for_best.jpeg)
 
-I have had my fair share in my years in the tech world so far. I am listing down a well thought out protocol that we as a team created for any such occurances. So here it goes:
+I have had my fair share in my years in the tech world so far. I am listing down a well thought out protocol that we as a team created for any such occupance. So here it goes:
 
 #### Take a deep breath !
 Nothing ever good happens when you panic. Stay calm and collected.
@@ -34,7 +34,7 @@ Create snapshots of bastion hosts, DBs or any current running systems which coul
 Block all access to the Bastions or your primary cloud accounts except for the ones that are in the team. Re-create the access keys of all individuals who are in team.
 
 #### Check Logs
-Watch for failed login attempts or unkown logins in any of your critical accounts e.g. Cloud provider account, DNS provider account, mail account etc.
+Watch for failed login attempts or unknown logins in any of your critical accounts e.g. Cloud provider account, DNS provider account, mail account etc.
 
 #### Determine source of incident
 From the logs or the impacted system try to investigate how the breach could have happened. If its not straight forward to figure out, try to think of all ways any person could reach to the affected system and eliminate the options one by one.
@@ -50,3 +50,6 @@ Assign the action items to individual members of the teams with the due time and
 Discussions of what went right and wrong. How this can be avoided in future.
 Recommendations to the teams and company on how this can be avoided in future.
 Follow-up on long terms action items taken from discussion.
+
+
+[back](../)
