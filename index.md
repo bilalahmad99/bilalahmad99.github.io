@@ -2,14 +2,21 @@
 layout: default
 ---
 
-## Hello There &#128075;
+## Hey There &#128075;
 
-My name is Bilal Ahmad. I am using this space to write down my thoughts and learnings; mostly related to technology. Writing usually helps me structure my thoughts and reflect on them.
+I am thinking of using this space to write down my thoughts and learnings; mostly related to technology. Writing usually helps me structure my thoughts and reflect on them.
 
 Some topics might interest you also. Check out the archive section where i have tried to label articles with sub-topics or subjects that are discussed in it.
 
-Ofcourse needless to say these are all my personal point of views and are not associated with any organization which i work for or have worked in the past.
+##### Mandatory Disclosure:
+Opinions are my own and not the views of my employer or previous employers.
 
+  
+.  
+.  
+.  
+  
+  
 
 ## Latest thoughts
 

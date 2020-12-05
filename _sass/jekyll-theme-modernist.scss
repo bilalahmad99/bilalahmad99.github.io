@@ -10,7 +10,7 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 "Courier New", Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#555;
   font-weight:300;
   background:url('../images/checker.png') fixed;
@@ -145,7 +145,7 @@ header {
       display:block;
       text-align:center;
       font-weight:400;
-      padding-top:6px;
+      padding-top:8px;
       height:40px;
       text-shadow:rgba(#000, 0.4) 0 -1px 0;
 
@@ -160,7 +160,7 @@ header {
 }
 
 section {
-  padding:15px 20px;
+  padding:45px 20px;
   font-size:20px;
   border-top:1px solid #fff;
   background: linear_gradient(#fafafa, #DEDEDE 700px);
