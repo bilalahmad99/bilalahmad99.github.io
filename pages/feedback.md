@@ -6,9 +6,17 @@ layout: default
 
 The concept of 1:1 meetings are very common these days in tech organizations. As we grow in our career it gets increasingly common to give and receive feedback in professional environment to colleagues.
 
-You will see quite a few articles and guidelines around for managers for how to effectively give feedback to your sub-ordinates so that it has a greater impact. Even organizations sometimes do a good job in training the managers around this area to improve giving feedback to the team members they are managing. However nobody tells you how to receive the feedback, atleast nobody told me about it.
+![one-to-one](../assets/img/one-to-one.png)
 
-For me and i guess most of us, job was the first sort of moment where I received a developmental feedback from people other than my parents or teachers. It was intense, I still remember almost every moment of it and how awkward the whole experience was. I remember it was about some project that I worked on and fell short of the expectations of my manager and I got defensive and felt like I was being criticized and unappreciated.
+You will see quite a few articles and guidelines around for managers for how to effectively give feedback to your sub-ordinates so that it has a greater impact. Organizations sometimes even train the managers around this area to improve giving feedback to the team members they are managing. However nobody tells you how to receive the feedback.
+
+For me (and i guess most of us) job was the first sort of moment where I received a developmental feedback from people other than my parents or teachers. After a certain age even pareents and techers stop giving you feedback or you stop listening to it.
+
+When i remember my first feedback from manager in my professional life, here is what comes to my mind:
+It was intense, I still remember almost every word of it and how awkward the whole experience was. It was about a project that I worked on with a lot of effort and still fell short of the expectations of my manager and I got defensive and felt like I was being criticized and unappreciated.
+
+
+![feedback](../assets/img/feedback.jpeg)
 
 Over the period of time in my career, I have learned how to receive feedbacks now. And if you are in the same boat as me you can learn from me here.
 I have started doing the following things which has helped and made me feel comfortable sitting in the 1:1s where you get judged everytime by your manager:

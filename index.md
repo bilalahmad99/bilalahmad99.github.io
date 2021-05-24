@@ -12,10 +12,6 @@ Some topics might interest you also. Check out the archive section where i have 
 Opinions are my own and not the views of my employer or previous employers.
 
   
-.  
-.  
-.  
-  
   
 
 ## Latest thoughts
