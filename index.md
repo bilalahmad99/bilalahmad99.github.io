@@ -8,7 +8,7 @@ Hey there!
 
 Writing usually helps me structure my thoughts and reflect on them, hence this.
 
-Some topics might interest you also. Check out the archive section where i have tried to label articles with sub-topics or subjects that are discussed in it.
+Some topics might interest you also. Do check out the archive section where i have tried to label articles with the related subjects that are discussed in it.
 
 ##### Mandatory Disclosure:
 Opinions are my own and not the views of my employer or previous employers.
