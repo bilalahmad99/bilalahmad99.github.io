@@ -6,7 +6,7 @@ layout: default
 
 Hey there!
 
-Writing usually helps me structure my thoughts and reflect on them, hence this.
+Welcome to my blog. Writing usually helps me structure my thoughts and reflect on them, hence this.
 
 Some topics might interest you also. Do check out the archive section where i have tried to label articles with the related subjects that are discussed in it.
 
