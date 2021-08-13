@@ -7,8 +7,7 @@ layout: default
 Hey there!
 
 Welcome to my blog. Writing usually helps me structure my thoughts and reflect on them, hence this.
-
-Some topics might interest you also. Do check out the archive section where i have tried to label articles with the related subjects that are discussed in it.
+Some topics might interest you also. Check out the archive section where i have tried to label articles with sub-topics or subjects that are discussed in it.
 
 ##### Mandatory Disclosure:
 Opinions are my own and not the views of my employer or previous employers.
@@ -18,16 +17,18 @@ Opinions are my own and not the views of my employer or previous employers.
 &nbsp;
 
 ## Latest thoughts
+&nbsp;
+
 
 ### Everyone needs to vent sometimes
 
-I recently noticed in my organisation increase in a bit of annoyance or bitterness. For example some passive-agressive Q&As during all-hands or other meetings, a feeling of distress and uneasiness during regular standups or 1x1s. I noticed a similar behaviour in myself also. So one morning after an uneasy standup meeting I thought to myself, lets figure out the root cause of this persistent feeling all around... [Continue Reading](./pages/everyone_needs_to_vent.html)
+I recently noticed in my organization increase in a bit of annoyance or bitterness. For example some passive-aggressive Q&As during all-hands or other meetings, a feeling of distress and uneasiness during regular standups or 1x1s. I noticed a similar behaviour in myself also. So one morning after an uneasy standup meeting I thought to myself, lets figure out the root cause of this persistent feeling all around... [Continue Reading](./pages/everyone_needs_to_vent.html)
 
 &nbsp;
 
 ### Adding CI workflow using Github Actions
 
-Github Actions is one of the best things to come out of Github. If you dont know about it you can read [here](https://docs.github.com/en/actions). Basically it makes your CI/CD extremeely easy to configure and manage. You can set up workflows to tell the github to build, test, package, release or deploy code in any repository in your preferred order. And you can have multiple workflows for a single repository also.
+Github Actions is one of the best things to come out of Github. If you don't know about it you can read [here](https://docs.github.com/en/actions). Basically it makes your CI/CD extremely easy to configure and manage. You can set up workflows to tell the github to build, test, package, release or deploy code in any repository in your preferred order. And you can have multiple workflows for a single repository also.
 
 Here is an example how to set it up... [Continue Reading](./pages/github_actions.html)
 
@@ -43,7 +44,7 @@ Before this, gcloud did not have anything around this to compete with [AWS Secre
 
 ### Local k8s setup with Skaffold for development environment
 
-When you want to deploy or test your application on kubernetes setup before committing, which is always a good idea if your production environment is running in Kubernetes you would like to test the code in as similar environment to production as possible, here are thing you would require to do:
+When you want to deploy or test your application on Kubernetes setup before committing, which is always a good idea if your production environment is running in Kubernetes you would like to test the code in as similar environment to production as possible, here are thing you would require to do:
 
 * Make a change to code
 * Build docker/container image

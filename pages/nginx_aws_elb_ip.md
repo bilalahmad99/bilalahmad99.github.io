@@ -19,7 +19,7 @@ But we like to be extremely cost effective found a way to make it work with the 
 
 We added a resolver directive at the start of nginx conf, pointing to the AWS or self-managed DNS server in your VPC. This makes it to honour the default ttl of load balancer DNS.
 
-Next, to make it resolve the IPs everytime, we changed the proxy_pass directive to use a variable for the DNS value. Nginx evaluates the value of the variable in each request. By setting the address as a variable and using the variable in the proxy_pass directive, we force Nginx to resolve the correct load balancer address on every request instead of at the startup or reload time.
+Next, to make it resolve the IPs every time, we changed the proxy_pass directive to use a variable for the DNS value. Nginx evaluates the value of the variable in each request. By setting the address as a variable and using the variable in the proxy_pass directive, we force Nginx to resolve the correct load balancer address on every request instead of at the startup or reload time.
 
 
 ```bash
