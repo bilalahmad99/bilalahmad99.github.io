@@ -19,6 +19,12 @@ Opinions are my own and not the views of my employer or previous employers.
 ## Latest thoughts
 &nbsp;
 
+### Gcloud SQL disaster recovery strategy
+
+Firstly we don't have any on-premise database instances so it makes our life much easier. Few things to note before designing your disaster recovery approach is RTO (Recovery time objective) and RPO (Recovery point objective) metrics. Both of these can vary from service to service as well as business to business. RTO is the maximum acceptable length of time that your application can be offline, and RPO is s the maximum acceptable length of time during which data might be lost from your application due to a major incident. The values of these you set yourself as part of your SLAs (Service level agreements).
+[Continue Reading](./pages/gcloud_disaster_recovery_data.html)
+
+&nbsp;
 
 ### Everyone needs to vent sometimes
 
