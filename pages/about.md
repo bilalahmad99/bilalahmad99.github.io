@@ -14,7 +14,10 @@ layout: default
 <p>Solutions Architect at <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex Site Reliability Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
 <br>
 <br>
-Originally from Pakistan, I feel lucky to have worked in US, Middle East and Europe with extra-ordinary people. My experiences in tech industry have made me a better person and I hope to continue getting better. These days I am based in London and can be reached on:<br><br>
+Originally from Pakistan, I feel lucky to have worked with extra-ordinary people from around the world and lived in cities like Berlin, London, Dubai and San Jose. My experiences in tech industry have made me a better person and I hope to continue getting better.
+<br>
+<br>
+I can be reached on:<br>
 <a href='https://www.linkedin.com/in/bilalahmad99/'>LinkedIn</a><br>
 <a href='https://github.com/bilalahmad99'>Github</a><br>
 <a href='https://twitter.com/bilahmad99'>Twitter</a><br>

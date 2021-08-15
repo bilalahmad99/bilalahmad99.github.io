@@ -20,7 +20,7 @@ layout: default
 
 8. <sub><sup>31 Aug 2020</sup></sub> [Why Everyone needs to vent sometimes](./everyone_needs_to_vent.html) <sub><sup>_[Leadership, Management]_ **6 min read**</sup></sub>
 
-
+9. <sub><sup>25 Nov 2020</sup></sub> [Gcloud disaster recovery for data](./gcloud_disaster_recovery_data.html) <sub><sup>_[DevOps, Architecture]_ **4 min read**</sup></sub>
 
 
 
