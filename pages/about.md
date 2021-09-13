@@ -41,7 +41,7 @@ layout: default
 <br>
 <br>
 <p>Started off as a software developer, I transitioned into platform/infrastructure engineering through interest and luck. I love it because it gives me taste of both sides of world.</p>
-<p>Originally from Pakistan, I feel lucky to have worked with some amazing people from around the world and lived in beautiful cities like Berlin, San Jose, Dubai and London. My experiences in tech industry have made me a better person and I hope to continue getting better.</p>
+<p>Originally from Pakistan, I feel lucky to have worked with some amazing people from around the world and lived in beautiful cities like Berlin, San Jose, Dubai, Islamabad and London. My experiences in tech industry have made me a better person and I hope to continue getting better.</p>
 <br>
 <br>
 I can be reached on:<br>

@@ -25,7 +25,7 @@ Firstly we don't have any on-premise database instances so it makes our life muc
 
 ### Everyone needs to vent sometimes
 
-I recently noticed in my organization increase in a bit of annoyance or bitterness. For example some passive-aggressive Q&As during all-hands or other meetings, a feeling of distress and uneasiness during regular standups or 1x1s. I noticed a similar behaviour in myself also. So one morning after an uneasy standup meeting I thought to myself, lets figure out the root cause of this persistent feeling all around... [Continue Reading](./pages/everyone_needs_to_vent.html)
+I recently noticed in my organization increase in a bit of annoyance or bitterness. For example some passive-aggressive Q&As during all-hands or other meetings, a feeling of distress and uneasiness during regular standups or 1x1s. I noticed a similar behaviour in myself also. So one morning after an uneasy standup meeting I tried to figure out the root cause of this (as an SRE will do)... [Continue Reading](./pages/everyone_needs_to_vent.html)
 
 &nbsp;
 
@@ -79,6 +79,6 @@ Vault is an extensive tool with both opensource and paid version to allow you to
 
 ### Everyone will tell you how to give feedback, nobody tells you how to receive it
 
-The concept of 1:1 meetings are very common these days in tech organizations. As we grow in our career it gets increasingly common to give and receive feedback in professional environment to colleagues.
+The concept of 1:1 meetings are very common in tech organizations. As we grow in our career it gets increasingly common to give and receive feedback in professional environment to colleagues.
 
 You will see quite a few articles and guidelines around for managers for how to effectively give feedback to your sub-ordinates so that it has a greater impact. Even organizations sometimes do a good job in training the managers around this area to improve giving feedback to the team members they are managing. However nobody tells you how to receive the feedback, atleast nobody told me about it... [Continue Reading](./pages/feedback.html)

@@ -6,7 +6,7 @@ layout: default
 
 My organization has some very nice people, always friendly and cheerful but I recently noticed a slight increase sense of annoyance or bitterness among team. For example some passive-aggressive Q&As during all-hands or other meetings, a feeling of distress and uneasiness during regular standups or 1x1s. I noticed a similar behavior in myself also. 
 
-I decided to root cause analysis, as any SRE would do ;).
+I decided to do root cause analysis, as any SRE would do ;).
 
 My first thought went towards the current scenario i.e This might be because of the crisis we are in. Obviously Covid has hit everyone in one way or another. It has already affected everyone and we have no idea how much it will keep affecting. The stress and anxiety levels in almost every individual have risen. But could there be something else.
 

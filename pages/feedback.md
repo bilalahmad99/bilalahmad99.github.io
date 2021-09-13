@@ -4,7 +4,7 @@ layout: default
 
 ## Everyone will tell you how to give feedback, nobody tells you how to receive it
 
-The concept of 1:1 meetings are very common these days in tech organizations. As we grow in our career it gets increasingly common to give and receive feedback in professional environment to colleagues.
+The concept of 1:1 meetings are very common in tech organizations. As we grow in our career it gets increasingly common to give and receive feedback in professional environment to colleagues.
 
 ![one-to-one](../assets/img/one-to-one.png)
 
