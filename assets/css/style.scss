@@ -2,3 +2,16 @@
 ---
 
 @import "jekyll-theme-modernist";
+
+.wave::after {
+    --emoji: '✋';
+    content: '👋';
+    animation-name: twoFrames;
+    animation-duration: 1s;
+    animation-iteration-count:infinite;
+}
+@keyframes twoFrames {
+    50% {
+        content: var(--emoji);
+    }
+}
