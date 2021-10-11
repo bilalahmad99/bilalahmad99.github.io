@@ -15,3 +15,26 @@
         content: var(--emoji);
     }
 }
+.fa {
+    padding: 12px;
+    font-size: 18px;
+    width: 16px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+  }
+  .fa:hover {
+      opacity: 0.7;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .fa-github {
+    background: #A0A0A0;
+    color: white;
+  }
