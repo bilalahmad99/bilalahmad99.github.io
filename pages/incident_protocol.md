@@ -33,11 +33,15 @@ Create snapshots of bastion hosts, DBs or any current running systems which coul
 #### Limit the access to infrastructure
 Block all access to the Bastions or your primary cloud accounts except for the ones that are in the team. Re-create the access keys of all individuals who are in team.
 
+![access denied](../assets/img/access-denied.gif)
+
 #### Check Logs
 Watch for failed login attempts or unknown logins in any of your critical accounts e.g. Cloud provider account, DNS provider account, mail account etc.
 
 #### Determine source of incident
 From the logs or the impacted system try to investigate how the breach could have happened. If its not straight forward to figure out, try to think of all ways any person could reach to the affected system and eliminate the options one by one.
+
+![investigate](../assets/img/investigate.gif)
 
 #### Assess the impact
 After the attacker has compromised a machine or system, try to asses how much further he can go in the infrastructure using that system. Think of all the worst case scenarios and note down as much impact as possible.
@@ -51,5 +55,6 @@ Discussions of what went right and wrong. How this can be avoided in future.
 Recommendations to the teams and company on how this can be avoided in future.
 Follow-up on long terms action items taken from discussion.
 
+![handshake](../assets/img/handshake.gif)
 
 [back](../)

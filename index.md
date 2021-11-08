@@ -2,10 +2,9 @@
 layout: default
 ---
 
-## &#128075;
+## Hey there! <span class="emoji wave" aria-label="hand wave"></span>
 
- Hey! Welcome to my tech blog. Writing usually helps me structure my thoughts and reflect on them, hence this.
-Some topics might interest you also. Check out the archive section where i have tried to label articles with sub-topics or subjects that are discussed in it.
+I use this space to write down my thoughts and experiments (mostly tech related). In the archive section, I have tried to label everything with sub-topics or subjects that are discussed in it.
 
 ##### Mandatory Disclosure:
 Opinions are my own and not the views of my employer or previous employers.
@@ -16,9 +15,26 @@ Opinions are my own and not the views of my employer or previous employers.
 ## Latest thoughts
 &nbsp;
 
+### Getting started with Cloud Run
+
+Google cloud run is a fully managed compute platform for running containerized applications on the cloud.
+The best serverless solution for containerized applications at this moment is Cloud Run in my opinion. Yes, its better then AWS Lambda (as of now) particularly because of its easiness, excellent containerized support and seamless integration with Kubernetes (GKE with Knative) and cheaper also...
+[Continue Reading](./pages/cloud_run.html)
+
+&nbsp;
+
+### Running gRPC-web on Istio
+
+gRPC web is the JavaScript implementation of [gRPC][] for browser clients.
+
+There is no current browser that supports HTTP/2 gRPC spec currently essentially because raw HTTP/2 frames are inaccessible in browsers. You can read further on this here[https://grpc.io/blog/state-of-grpc-web/#the-grpc-web-spec]. Hence, gRPC-web clients connect to gRPC services via a special proxy; by default, gRPC-web uses [Envoy][]. The purpose of Envoy is to translates the HTTP/1.1 calls produced by the client into HTTP/2 calls that can be handled by those services...
+[Continue Reading](./pages/grpc-web.html)
+
+&nbsp;
+
 ### Gcloud SQL disaster recovery strategy
 
-Firstly we don't have any on-premise database instances so it makes our life much easier. Few things to note before designing your disaster recovery approach is RTO (Recovery time objective) and RPO (Recovery point objective) metrics. Both of these can vary from service to service as well as business to business. RTO is the maximum acceptable length of time that your application can be offline, and RPO is s the maximum acceptable length of time during which data might be lost from your application due to a major incident. The values of these you set yourself as part of your SLAs (Service level agreements).
+Firstly we don't have any on-premise database instances so it makes our life much easier. Few things to note before designing your disaster recovery approach is RTO (Recovery time objective) and RPO (Recovery point objective) metrics. Both of these can vary from service to service as well as business to business. RTO is the maximum acceptable length of time that your application can be offline, and RPO is s the maximum acceptable length of time during which data might be lost from your application due to a major incident. The values of these you set yourself as part of your SLAs (Service level agreements)...
 [Continue Reading](./pages/gcloud_disaster_recovery_data.html)
 
 &nbsp;
