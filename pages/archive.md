@@ -6,7 +6,7 @@ layout: default
 
 ---
 
-<sub><sup>2 July 2021</sup></sub><br>
+<sub><sup>2 October 2021</sup></sub><br>
 [Getting started with Cloud Run](./cloud_run.html)<br>
 <sub><sup>_[Serverless, GCP]_ **11 min read**</sup></sub>
 

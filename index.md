@@ -1,18 +1,15 @@
 ---
 layout: default
 ---
-
-## Hey there! <span class="emoji wave" aria-label="hand wave"></span>
-
+<div class='index-head'>
+<p> Hey there! <span class="emoji wave" aria-label="hand wave"></span>
 I use this space to write down my thoughts and experiments (mostly tech related). In the archive section, I have tried to label everything with sub-topics or subjects that are discussed in it.
+<br>
+<b>Mandatory Disclosure:</b> Opinions are my own and not the views of my employer or previous employers.
+</p>
+</div>
+---
 
-##### Mandatory Disclosure:
-Opinions are my own and not the views of my employer or previous employers.
-
-&nbsp;
-
-
-## Latest thoughts
 &nbsp;
 
 ### Getting started with Cloud Run
@@ -25,9 +22,9 @@ The best serverless solution for containerized applications at this moment is Cl
 
 ### Running gRPC-web on Istio
 
-gRPC web is the JavaScript implementation of [gRPC][] for browser clients.
+gRPC web is the JavaScript implementation of [gRPC](https://grpc.io) for browser clients.
 
-There is no current browser that supports HTTP/2 gRPC spec currently essentially because raw HTTP/2 frames are inaccessible in browsers. You can read further on this here[https://grpc.io/blog/state-of-grpc-web/#the-grpc-web-spec]. Hence, gRPC-web clients connect to gRPC services via a special proxy; by default, gRPC-web uses [Envoy][]. The purpose of Envoy is to translates the HTTP/1.1 calls produced by the client into HTTP/2 calls that can be handled by those services...
+There is no current browser that supports HTTP/2 gRPC spec currently essentially because raw HTTP/2 frames are inaccessible in browsers. You can read further on this [here](https://grpc.io/blog/state-of-grpc-web/#the-grpc-web-spec). Hence, gRPC-web clients connect to gRPC services via a special proxy; by default, gRPC-web uses [Envoy](https://www.envoyproxy.io). The purpose of Envoy is to translates the HTTP/1.1 calls produced by the client into HTTP/2 calls that can be handled by those services...
 [Continue Reading](./pages/grpc-web.html)
 
 &nbsp;
