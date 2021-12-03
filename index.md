@@ -12,6 +12,13 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+### No wonder Pulumi is getting a lot of traction, Its Great!
+
+For so long if you wanted a good Infrastructure-as-a-code tool that works for multiple cloud providers, you had one option: 'The Hashicorp Terraform'. It is based on HCL and it did a pretty good job in all fairness and still does. But it lacks a few things which Pulumi has solved. E.g. HCL is difficult and awkward language for infrastructure-as-a-code, It's not very developer friendly and it does not have a fancy UI. With Pulumi, you get the fancy UI and you can code in Python,Java or any developer friendly language and it also takes care of managing your state of infrastructure, you dont have to manage it yourself (although sometimes its a good idea to manage your state yourself and Pulumi allows it too).
+[Continue Reading](./pages/pulumi.html)
+
+&nbsp;
+
 ### Getting started with Cloud Run
 
 Google cloud run is a fully managed compute platform for running containerized applications on the cloud.

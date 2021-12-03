@@ -6,9 +6,15 @@ layout: default
 
 ---
 
+<sub><sup>2 December 2021</sup></sub><br>
+[Pulumi vs Terroform vs AWS CDK](./pulumi.html)<br>
+<sub><sup>_[Infrastructure-as-a-code]_ **7 min read**</sup></sub>
+
+---
+
 <sub><sup>2 October 2021</sup></sub><br>
 [Getting started with Cloud Run](./cloud_run.html)<br>
-<sub><sup>_[Serverless, GCP]_ **11 min read**</sup></sub>
+<sub><sup>_[Serverless, GCP]_ **8 min read**</sup></sub>
 
 ---
 
