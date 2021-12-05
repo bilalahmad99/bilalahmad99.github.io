@@ -14,7 +14,7 @@ layout: default
 
 <sub><sup>2 October 2021</sup></sub><br>
 [Getting started with Cloud Run](./cloud_run.html)<br>
-<sub><sup>_[Serverless, GCP]_ **8 min read**</sup></sub>
+<sub><sup>_[Serverless, GCP]_ **6 min read**</sup></sub>
 
 ---
 
