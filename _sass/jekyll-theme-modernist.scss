@@ -149,11 +149,19 @@ header {
       height:40px;
       text-shadow:rgba(#000, 0.4) 0 -1px 0;
 
+      
+    
       strong {
         font-size:14px;
         display:block;
         color:#fff;
         -webkit-font-smoothing:antialiased;
+        
+        ul li a:hover{
+          background:lime;
+          color:red;
+        }
+          
       }
     }
   }
