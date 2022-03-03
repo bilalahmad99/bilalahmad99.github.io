@@ -17,7 +17,7 @@ If `x` is an empty string then the result is `default`, else it is the actual va
 
 Now same thing Pulumi can be done with the simple python if/else or switch statement or whatever you feel comfortable in.
 It supports all the major languages Python, Go, Nodejs. 
-It has support for a lot of platforms listed here [https://www.pulumi.com/registry/]([https://www.pulumi.com/registry/]).
+It has support for a lot of platforms listed here [https://www.pulumi.com/registry/](https://www.pulumi.com/registry/).
 
 The really good part about Pulumi is its great UI. It shows the state of Infrastructure in a list view and Graph view. It allows you to see the multiple stacks in a project as an admin. and multiple projects in an organization. Also allows you to set Pulumi tags which can be utilized for your internal organization logic. You can also see pulumi stack secrets and configurations from UI.
 
