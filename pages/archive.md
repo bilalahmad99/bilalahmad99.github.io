@@ -10,6 +10,9 @@ layout: default
 [Pulumi vs Terroform vs AWS CDK](./pulumi.html)<br>
 <sub><sup>_[Infrastructure-as-a-code]_ **7 min read**</sup></sub>
 
+[https://www.pulumi.com/registry/](https://www.pulumi.com/registry/).
+
+
 ---
 
 <sub><sup>2 October 2021</sup></sub><br>
