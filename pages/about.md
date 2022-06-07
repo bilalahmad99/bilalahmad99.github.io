@@ -13,7 +13,7 @@ layout: default
 <td>
 </td>
 <td>
-<p>L5 Product Developer <a href='https://www.and.digital/'>AND Digital</a> <br>Ex Solutions Architect <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex Site Reliability Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
+<p>Senior Product Developer <a href='https://www.and.digital/'>AND Digital</a>,<br>Ex Solutions Architect <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex Site Reliability Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
 <br>
 <br>
 <p>Started off as a software developer, I transitioned into platform/infrastructure engineering through interest and luck.</p>
