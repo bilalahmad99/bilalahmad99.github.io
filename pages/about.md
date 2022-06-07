@@ -13,11 +13,11 @@ layout: default
 <td>
 </td>
 <td>
-<p>Solutions Architect at <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex Site Reliability Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
+<p>L5 Product Developer <a href='https://www.and.digital/'>AND Digital</a> <br>Ex Solutions Architect <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex Site Reliability Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
 <br>
 <br>
-<p>Started off as a software developer, I transitioned into platform/infrastructure engineering through interest and luck. I love it because it gives me taste of both sides of tech world.</p>
-<p>Originally from Pakistan, I feel lucky to have worked with some amazing people and lived in beautiful cities like Berlin, San Jose, Dubai, Islamabad and London and most importantly. My experiences in tech industry have made me a better person and I hope to continue getting better.</p>
+<p>Started off as a software developer, I transitioned into platform/infrastructure engineering through interest and luck.</p>
+<p>Originally from Pakistan, I feel lucky to have worked with some amazing people and lived in beautiful cities like Berlin, San Jose, Dubai, Islamabad and London and most importantly; My experiences in tech industry have made me a better person.</p>
 <br>
 <br>
 I can be reached on:<br>
