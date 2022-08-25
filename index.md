@@ -91,7 +91,7 @@ Anyways Nginx resolves the address defined in the proxy_pass directive just once
 
 &nbsp;
 
-### Setting up Hashicorp Vault to store and manage secrets
+### Setting up Hashicorp Vault to manage secrets
 
 Vault is an extensive tool with both opensource and paid version to allow you to secure, store and tightly control access to tokens, passwords, certificates, encryption keys for protecting secrets and other sensitive data using a UI, CLI, or HTTP API... [Continue Reading](./pages/vault.html)
 
