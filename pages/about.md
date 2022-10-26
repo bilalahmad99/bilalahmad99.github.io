@@ -13,7 +13,7 @@ layout: default
 <td>
 </td>
 <td>
-<p>Lead Infrastructure Engineer <a href='https://www.and.digital/'>AND Digital</a>,<br>Ex Snr Site Reliability Engineer <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex DevOps Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
+<p>Lead Infrastructure Engineer <a href='https://www.and.digital/'>AND Digital</a>,<br>Ex Senior Site Reliability Engineer <a href='https://www.noon.com/uae-en/'>Noon e-commerce</a> Dubai,<br>Ex Site Reliability Engineer <a href='https://www.olxgroup.com/'>OLX Group</a>,<br>Ex DevOps Engineer <a href='https://www.edx.org/'>edX</a>,<br>Ex Software Developer  <a href='https://www.crunchbase.com/organization/plumgrid'>Plumgrid</a>.<br>
 <br>
 <br>
 <p>I love solving problems like every engineer does. I started off my career as a software developer and then transitioned into platform/infrastructure engineering with focus on Site Reliability over the past few years.</p>
