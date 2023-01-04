@@ -6,6 +6,18 @@ layout: default
 
 ---
 
+<sub><sup>3 November 2022</sup></sub><br>
+[Common Deployment Strategies](./deployment_types.html)<br>
+<sub><sup>_[CI/CD]_ **7 min read**</sup></sub>
+
+---
+
+<sub><sup>19 September 2022</sup></sub><br>
+[Github self hosted Runners on EKS](./github_runners.html)<br>
+<sub><sup>_[Infrastructure-as-a-code]_ **7 min read**</sup></sub>
+
+---
+
 <sub><sup>2 December 2021</sup></sub><br>
 [Pulumi vs Terroform vs AWS CDK](./pulumi.html)<br>
 <sub><sup>_[Infrastructure-as-a-code]_ **7 min read**</sup></sub>
