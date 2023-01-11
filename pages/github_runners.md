@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Adding Self Hosted Github Runners
+## Adding Self-Hosted Github Runners
 
 
 
