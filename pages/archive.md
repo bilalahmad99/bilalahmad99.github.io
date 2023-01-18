@@ -7,8 +7,8 @@ layout: default
 ---
 
 <sub><sup>3 November 2022</sup></sub><br>
-[Common Deployment Strategies](./deployment_types.html)<br>
-<sub><sup>_[CI/CD]_ **7 min read**</sup></sub>
+[6 Most Common Deployment Strategies](./deployment_types.html)<br>
+<sub><sup>_[CI/CD]_ **8 min read**</sup></sub>
 
 ---
 
