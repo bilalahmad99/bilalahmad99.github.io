@@ -13,8 +13,14 @@ layout: default
 ---
 
 <sub><sup>19 September 2022</sup></sub><br>
-[Github self hosted Runners on EKS](./github_runners.html)<br>
+[Github self hosted Runners on EKS with Ansible](./github_runners.html)<br>
 <sub><sup>_[Infrastructure-as-a-code]_ **7 min read**</sup></sub>
+
+---
+
+<sub><sup>1 June 2022</sup></sub><br>
+[Running Terraform through Ansible](./running_terraform_through_ansible.html)<br>
+<sub><sup>_[Infrastructure-as-a-code]_ **12 min read**</sup></sub>
 
 ---
 
