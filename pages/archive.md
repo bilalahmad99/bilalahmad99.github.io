@@ -6,6 +6,48 @@ layout: default
 
 ---
 
+<sub><sup>23 January 2023</sup></sub><br>
+[5 signs of toxic workplace](./toxic-workplace.html)<br>
+<sub><sup>_[Leadership, Culture]_ **6 min read**</sup></sub>
+
+---
+
+<sub><sup>22 January 2023</sup></sub><br>
+[Drawbacks of Microservices](./microservices-drawbacks.html)<br>
+<sub><sup>_[Architecture]_ **6 min read**</sup></sub>
+
+---
+
+<sub><sup>12 January 2023</sup></sub><br>
+[Common Isio Mistakes](./istio-mistakes.html)<br>
+<sub><sup>_[SRE, DevOps]_ **6 min read**</sup></sub>
+
+---
+
+<sub><sup>2 January 2023</sup></sub><br>
+[Cloud Migrations](./cd.html)<br>
+<sub><sup>_[SRE, DevOps]_ **7 min read**</sup></sub>
+
+---
+
+<sub><sup>21 December 2022</sup></sub><br>
+[Continuous Deployment - Best Practices](./cd.html)<br>
+<sub><sup>_[CI/CD]_ **4 min read**</sup></sub>
+
+---
+
+<sub><sup>15 December 2022</sup></sub><br>
+[Core Pillars of Architecture](./pillars.html)<br>
+<sub><sup>_[Architecture]_ **6 min read**</sup></sub>
+
+---
+
+<sub><sup>1 December 2022</sup></sub><br>
+[Service Level Agreements - Best Practices](./sla.html)<br>
+<sub><sup>_[SRE]_ **4 min read**</sup></sub>
+
+---
+
 <sub><sup>3 November 2022</sup></sub><br>
 [6 Most Common Deployment Strategies](./deployment_types.html)<br>
 <sub><sup>_[CI/CD]_ **8 min read**</sup></sub>
@@ -15,6 +57,12 @@ layout: default
 <sub><sup>19 September 2022</sup></sub><br>
 [Github self hosted Runners on EKS with Ansible](./github_runners.html)<br>
 <sub><sup>_[Infrastructure-as-a-code]_ **7 min read**</sup></sub>
+
+---
+
+<sub><sup>3 July 2022</sup></sub><br>
+[What constitutes a Continuous Integration process](./testing_types.html)<br>
+<sub><sup>_[CI/CD]_ **4 min read**</sup></sub>
 
 ---
 
@@ -47,7 +95,6 @@ layout: default
 <sub><sup>_[Architecture, GCP]_ **4 min read**</sup></sub>
 
 ---
-
 
 <sub><sup>31 Aug 2020</sup></sub><br>
 [Why Everyone needs to vent sometimes](./everyone_needs_to_vent.html)<br>
@@ -95,13 +142,3 @@ layout: default
 <sub><sup>_[Productivity, Management]_ **6 min read**</sup></sub>
 
 ---
-
-
-
-
-
-
-
-
-
-
