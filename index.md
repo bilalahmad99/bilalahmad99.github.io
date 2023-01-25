@@ -56,7 +56,7 @@ There are several types of cloud migrations that organizations can undertake, de
 
 &nbsp;
 
-### Core Pillars to consider when designing the software architecture
+### Software Architecture - Core Pillars
 
 #### Functionality:
 The software architecture should provide the necessary functionality to meet the requirements of the system and its users.
