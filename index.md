@@ -3,14 +3,21 @@ layout: default
 ---
 <div class='index-head'>
 <p> Hey there! <span class="emoji wave" aria-label="hand wave"></span>
-I use this space to write down my thoughts and experiments (mostly tech related).
+I use this space to write down my thoughts and experiments (mostly tech related). I would love to get feedback and comment which is at the bottom of every page.
 <br>
-<b>Mandatory Disclosure:</b> Opinions are my own and not the views of my employer or previous employers.
+<br>
+<b>Mandatory Disclosure &#x1F440;:</b> Opinions are my own and not the views of my employer or previous employers.
 </p>
 </div>
 ---
 
 &nbsp;
+
+<sub><sup>17 July 2023</sup></sub><br>
+[Mastering the Art of Alerting](./pages/alerting.html)<br>
+<sub><sup>_[OnCall, Culture, Monitoring, Alerting]_ **6 min read**</sup></sub>
+
+---
 
 <sub><sup>23 January 2023</sup></sub><br>
 [5 signs of toxic workplace](./pages/toxic-workplace.html)<br>
