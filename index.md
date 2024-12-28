@@ -13,9 +13,15 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
-<sub><sup>17 July 2023</sup></sub><br>
+<sub><sup>24 May 2024</sup></sub><br>
+[The Hidden Bill: AWS Data Transfer Costs Within Availability Zones](./pages/aws_data_transfer_cost.html)<br>
+<sub><sup>_[AWS, Networking, Cost]_ **3 min read**</sup></sub>
+
+---
+
+<sub><sup>17 October 2023</sup></sub><br>
 [Mastering the Art of Alerting](./pages/alerting.html)<br>
-<sub><sup>_[OnCall, Culture, Monitoring, Alerting]_ **6 min read**</sup></sub>
+<sub><sup>_[OnCall, Culture, Monitoring, Alerting]_ **2 min read**</sup></sub>
 
 ---
 
