@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>14 Nov 2024</sup></sub><br>
+[AWS EKS Cost Optimization](./pages/aws_eks_cost.html)<br>
+<sub><sup>_[AWS, EKS, Cost]_ **3 min read**</sup></sub>
+
+---
+
 <sub><sup>24 May 2024</sup></sub><br>
 [The Hidden Bill: AWS Data Transfer Costs Within Availability Zones](./pages/aws_data_transfer_cost.html)<br>
 <sub><sup>_[AWS, Networking, Cost]_ **3 min read**</sup></sub>
