@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>10 Jan 2025</sup></sub><br>
+[Terraform Module Design](./pages/terraform_module_design.html)<br>
+<sub><sup>_[Terraform]_ **4 min read**</sup></sub>
+
+---
+
 <sub><sup>14 Nov 2024</sup></sub><br>
 [AWS EKS Cost Optimization](./pages/aws_eks_cost.html)<br>
 <sub><sup>_[AWS, EKS, Cost]_ **3 min read**</sup></sub>
