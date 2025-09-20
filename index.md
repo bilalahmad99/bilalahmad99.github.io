@@ -14,6 +14,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 &nbsp;
 
 <sub><sup>11 June 2025</sup></sub><br>
+[Observability with Grafana OSS Stack](./pages/grafana_oss_observability.html)<br>
+<sub><sup>_[Observability, Monitoring, Grafana]_ **17 min read**</sup></sub>
+
+---
+
+<sub><sup>11 June 2025</sup></sub><br>
 [Scaling with Karpenter in Kubernetes](./pages/karpenter_scaling.html)<br>
 <sub><sup>_[Kubernetes, AWS, Scaling]_ **7 min read**</sup></sub>
 
