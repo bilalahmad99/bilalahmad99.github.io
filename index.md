@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>22 Apr 2025</sup></sub><br>
+[Load Testing with k6](./pages/k6_load_testing.html)<br>
+<sub><sup>_[Testing, Performance, DevOps]_ **16 min read**</sup></sub>
+
+---
+
 <sub><sup>15 Feb 2025</sup></sub><br>
 [GitOps with Argo CD vs Flux](./pages/gitops_argo_flux.html)<br>
 <sub><sup>_[GitOps, Kubernetes, DevOps]_ **5 min read**</sup></sub>
