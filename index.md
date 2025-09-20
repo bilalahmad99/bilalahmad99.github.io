@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>11 June 2025</sup></sub><br>
+[Scaling with Karpenter in Kubernetes](./pages/karpenter_scaling.html)<br>
+<sub><sup>_[Kubernetes, AWS, Scaling]_ **7 min read**</sup></sub>
+
+---
+
 <sub><sup>22 Apr 2025</sup></sub><br>
 [Load Testing with k6](./pages/k6_load_testing.html)<br>
 <sub><sup>_[Testing, Performance, DevOps]_ **16 min read**</sup></sub>
