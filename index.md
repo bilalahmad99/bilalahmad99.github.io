@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>24 July 2025</sup></sub><br>
+[How Amazon Q CLI and MCP Servers Supercharged My Productivity](./pages/amazon_q_cli_productivity.html)<br>
+<sub><sup>_[AWS, CLI, Productivity, AI]_ **12 min read**</sup></sub>
+
+---
+
 <sub><sup>13 July 2025</sup></sub><br>
 [Central Logging in AWS Multi-Account Organizations](./pages/aws_central_logging_sentinel.html)<br>
 <sub><sup>_[AWS, Security, Logging, Sentinel]_ **18 min read**</sup></sub>
