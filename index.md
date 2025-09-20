@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>13 July 2025</sup></sub><br>
+[Central Logging in AWS Multi-Account Organizations](./pages/aws_central_logging_sentinel.html)<br>
+<sub><sup>_[AWS, Security, Logging, Sentinel]_ **18 min read**</sup></sub>
+
+---
+
 <sub><sup>30 June 2025</sup></sub><br>
 [Observability with Grafana OSS Stack](./pages/grafana_oss_observability.html)<br>
 <sub><sup>_[Observability, Monitoring, Grafana]_ **17 min read**</sup></sub>
