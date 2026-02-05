@@ -13,7 +13,7 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
-<sub><sup>15 Aug 2025</sup></sub><br>
+<sub><sup>15 Dec 2025</sup></sub><br>
 [Migrating from Karpenter to EKS Auto Mode: Lessons Learned](./pages/eks_automode_karpenter_migration.html)<br>
 <sub><sup>_[Kubernetes, AWS, EKS Auto Mode, Migration]_ **8 min read**</sup></sub>
 

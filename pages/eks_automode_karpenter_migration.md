@@ -15,9 +15,9 @@ If you’ve been running [Karpenter](https://karpenter.sh/) for node autoscaling
 | Aspect | Karpenter | EKS Auto Mode |
 |--------|-----------|----------------|
 | **Who runs it** | You (Helm, CRDs, upgrades) | AWS (managed control plane + node lifecycle) |
-| **Node lifecycle** | You configure NodePools, EC2NodeClass | AWS-managed; immutable nodes, ~21-day rotation |
+| **Node lifecycle** | You configure NodePools, EC2NodeClass | AWS-managed; immutable nodes, auto-rotation of nodes |
 | **Security** | You harden AMIs, IAM, networking | Built-in: immutable AMIs, SELinux, read-only root, encryption |
-| **Networking / storage** | You wire VPC CNI, EBS CSI, LBs | Pre-integrated VPC CNI, EBS CSI, load balancer controller |
+| **Networking / storage** | You wire VPC CNI, EBS CSI | Pre-integrated VPC CNI, EBS CSI |
 | **Cost optimization** | Spot, consolidation, right-sizing in your NodePools | AWS applies Spot, right-sizing, instance selection |
 | **Operational load** | Higher (you own scaling logic and upgrades) | Lower (fewer components to operate) |
 
