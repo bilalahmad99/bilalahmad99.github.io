@@ -3,7 +3,7 @@ layout: default
 ---
 <div class='index-head'>
 <p> Hey there! <span class="emoji wave" aria-label="hand wave"></span>
-I use this space to write down my thoughts and experiments (mostly tech related). I would love to get feedback and comment which is at the bottom of every page.
+I use this space to write down my thoughts and experiments (mostly tech related). I would love to get feedback and comments.
 <br>
 <br>
 <b>Mandatory Disclosure &#x1F440;:</b> Opinions are my own and not the views of my employer or previous employers.
@@ -12,6 +12,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 ---
 
 &nbsp;
+
+<sub><sup>15 Aug 2025</sup></sub><br>
+[Migrating from Karpenter to EKS Auto Mode: Lessons Learned](./pages/eks_automode_karpenter_migration.html)<br>
+<sub><sup>_[Kubernetes, AWS, EKS Auto Mode, Migration]_ **8 min read**</sup></sub>
+
+---
 
 <sub><sup>24 July 2025</sup></sub><br>
 [How Amazon Q CLI and MCP Servers Supercharged My Productivity](./pages/amazon_q_cli_productivity.html)<br>
