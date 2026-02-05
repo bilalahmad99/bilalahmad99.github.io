@@ -13,6 +13,12 @@ I use this space to write down my thoughts and experiments (mostly tech related)
 
 &nbsp;
 
+<sub><sup>11 Jan 2026</sup></sub><br>
+[The Hardest Conversation: Letting Go of a Team Member](./pages/probation_not_passed.html)<br>
+<sub><sup>_[Leadership, Management, Culture]_ **6 min read**</sup></sub>
+
+---
+
 <sub><sup>15 Dec 2025</sup></sub><br>
 [Migrating from Karpenter to EKS Auto Mode: Lessons Learned](./pages/eks_automode_karpenter_migration.html)<br>
 <sub><sup>_[Kubernetes, AWS, EKS Auto Mode, Migration]_ **8 min read**</sup></sub>
