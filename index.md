@@ -1,17 +1,12 @@
 ---
 layout: default
 ---
-<div class='index-head'>
-<p> Hey there! <span class="emoji wave" aria-label="hand wave"></span>
-I use this space to write down my thoughts and experiments (mostly tech related). I would love to get feedback and comments.
-<br>
-<br>
-<b>Mandatory Disclosure &#x1F440;:</b> Opinions are my own and not the views of my employer or previous employers.
-</p>
-</div>
----
 
-&nbsp;
+<sub><sup>30 Mar 2026</sup></sub><br>
+[SOC 2 and ISO 27001: Notes from experience](./pages/soc2_iso27001_compliance.html)<br>
+<sub><sup>_[Security, Compliance]_ **25 min read**</sup></sub>
+
+---
 
 <sub><sup>11 Jan 2026</sup></sub><br>
 [The Hardest Conversation: Letting Go of a Team Member](./pages/probation_not_passed.html)<br>
